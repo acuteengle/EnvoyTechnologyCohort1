@@ -1,0 +1,51 @@
+#dog {
+    color: red;
+    font-weight:bold;
+}
+
+#cat {
+    text-align: center;
+    font-style: italic;
+}
+
+.pidgeon {
+    text-decoration: underline;
+    font-family: impact;
+}
+
+.right {
+    text-align:right;
+}
+
+#myDiv {
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    border: 15px solid mediumaquamarine;
+    padding: 20px;
+    margin: auto;
+}
+
+#table {
+    border-collapse: collapse;
+  }
+
+  td {
+    border: 1px solid black;
+  }
+
+  a:link, a:visited {
+    color: orange;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: hotpink;
+    text-decoration: underline;
+    background-color: cyan;
+  }
+  
+  html {
+    color: darkblue;
+    font-family: monospace;
+  }
