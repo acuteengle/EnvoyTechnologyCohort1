@@ -1,0 +1,43 @@
+html {
+    color: darkblue;
+    font-family: monospace;
+}
+.redbold {
+    color: red;
+    font-weight: bold;
+}
+.centital {
+    font-style: italic;
+    text-align: center;
+}
+.underline {
+    text-decoration: underline;
+}
+.right {
+    text-align: right;
+}
+#myDiv {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 20px solid blue;
+    padding: 10px;
+    margin: auto;
+    
+
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    color: orange;
+    text-decoration: none;
+}
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+    background-color: cyan;
+}
+td{
+    border: 1px solid black;
+}
