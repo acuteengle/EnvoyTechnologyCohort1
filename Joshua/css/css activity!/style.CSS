@@ -1,0 +1,61 @@
+#apple {
+    color: red;
+    font-weight: bold;
+  }
+
+  #blueberry {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    font-style: italic;
+  }
+
+  #cherry {
+    text-decoration: underline;
+  }
+
+  .right {
+    text-align: right;
+  }
+
+  #mydiv {
+    width: 100x;
+    height: 100px;
+    background-color:tan;
+    border: 10px solid gold;
+    margin: 50px;
+    padding: 20px;
+    margin: auto;
+  }
+
+  #piepic {
+    width: 50%;
+  }
+
+  #list {
+    list-style-type: upper-roman;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  td {
+    border: 1px solid black;
+  }
+  
+  a:link, a:visited {
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
+  c
+  background-color: cyan;
+}
+
+html {
+  color: darkblue;
+  font-family: monospace;
+}
