@@ -1,0 +1,107 @@
+h1 {
+    color: orange;
+  }
+  
+  h2 {
+    color: green;
+  }
+  
+  .givePurple {
+    color: purple;
+    font-size: 30px;
+  }
+  
+  #headerId {
+    color: pink;
+  }
+  
+  .stylish {
+    color: pink;
+    font-family: Impact;
+    background-color: darkgoldenrod;
+    font-size: 30px;
+    text-align: center; /* left, center, right */
+    text-transform: capitalize; /* uppercase, lowercase, capitalize */
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  /* body {
+    color: red;
+  } */
+  
+  .imageStyling {
+    width: 50%;
+  }
+  
+  .circle {
+    list-style-type: circle;
+  }
+  
+  /*
+  upper-roman
+  lower-roman
+  upper-alpha
+  lower-alpha
+  */
+  .roman {
+    list-style-type: upper-alpha;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  td {
+    border: 1px solid black;
+  }
+  
+  #myDiv {
+    background-color: pink;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    border: 10px solid black;
+    outline: 10px solid blue;
+    margin: 20px;
+  }
+  
+  .sylishDiv {
+      width: 500px;
+      height: 300px;
+      background-color: blue;
+      opacity: 0.5;
+      border: 1px solid black;
+      border-radius: 10px; 
+  }
+  
+  .centered {
+      width: 200px;
+      height: 200px;
+      background-color: orange;
+      margin: auto;
+  }
+  
+  .percent {
+      width: 50%;
+      height: 200px;
+      background-color: green;
+      margin: auto; //centers the div 
+  }
+  
+  /*  */
+  
+  /* unvisited link */
+  a:link, a:visited {
+      color: orange;
+      text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+      color: hotpink;
+      text-decoration: underline;
+      background-color: cyan;
+  }
+  
+  
