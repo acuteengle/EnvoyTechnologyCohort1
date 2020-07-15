@@ -1,0 +1,45 @@
+#p1 {
+    color:red;
+    font-weight: bold;
+}
+#head1{
+    text-align: center;
+    font-style:italic;
+}
+#head2{
+    text-decoration: underline;
+}
+.right{
+    text-align: right;
+}
+#mydiv{
+    height:100px;
+    width:100px;
+    background-color: sandybrown;
+    border: 10px solid brown;
+    padding: 20px;
+    margin: 50px;
+    margin:auto;
+}
+#list1{
+    list-style-type: upper-roman;
+}
+#table1{
+    border-collapse: collapse;
+}
+td {
+    border:1px solid black
+}
+a:link, a:visited{
+    color:orange;
+    text-decoration: none;
+}
+a:hover{
+    color:hotpink;
+    text-decoration: underline;
+    background-color:cyan;
+}
+html{
+    color:darkblue;
+    font-family: monospace;
+}
