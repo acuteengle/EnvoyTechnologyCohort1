@@ -1,0 +1,27 @@
+#dogs{
+    color: red;
+    font-weight: bold;
+}
+#cats{
+    text-align: center;
+    font-style: italic;
+}
+#music{
+    text-decoration: underline;
+    font-family: Impact;
+}
+.right{
+    text-align: right;
+}
+#myDiv{
+    height: 100px;
+  width: 100px;
+  background-color: darkblue;
+  border: 20px solid black;
+  padding: 20px;
+  margin: auto; 
+
+}
+#cat{
+    width: 50%;
+}
