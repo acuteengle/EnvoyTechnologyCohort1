@@ -1,0 +1,67 @@
+#test
+{
+   color: red;
+   font-weight: bold;
+}
+#header1
+{
+    font-style: italic;
+    text-align: center;
+}
+#header3
+{
+    text-decoration: underline;
+    font-family: Impact;
+}
+.right
+{
+    text-align: right;
+}
+#myDiv
+{
+    height: 100px;
+    width:100px;
+    border: solid;
+    border-radius: 10px;
+    border-color: red;
+    padding: 20px;
+    margin: 50px;
+    margin: auto;
+}
+#img
+{
+    width:50%;
+}
+#ol
+{
+    list-style-type: upper-roman;
+}
+#table
+{
+    border-collapse: collapse;
+}
+td
+{
+    border: 1px solid black;
+}
+a:visited
+{
+    color: orange; 
+    text-decoration: none;
+}
+a:link
+{
+    color: orange; 
+    text-decoration: none;
+}
+a:hover
+{
+    color: hotpink;
+    text-decoration: underline; 
+    background-color: cyan;
+}
+html
+{
+    font-family: monospace;
+    color: darkblue;
+}
