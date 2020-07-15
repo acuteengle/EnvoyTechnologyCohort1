@@ -1,0 +1,40 @@
+html {
+    color: darkblue;
+    font: Monospace;
+}
+
+.right {
+    text-align:"right";
+}
+
+h4 {
+    font-size:40px;
+}
+
+#div {
+    height:"100px";
+    width:"100px";
+    background-color:"pink";
+    border: 20px solid rgb(135, 198, 228);
+    padding:20px;
+    margin:50px;
+    text-align:"center";
+}
+
+a:link, a:visited {
+    color: orange;
+    text-decoration: "none";
+}
+
+/*
+a:visited {
+    color: orange;
+    text-decoration: "none";
+}
+*/
+
+a:hover {
+    color: hotpink;
+    text-decoration:"underline";
+    background-color:cyan;
+}

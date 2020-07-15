@@ -1,0 +1,49 @@
+.a {
+    color:red;
+    font-weight: bold;
+}
+.b {
+    font-style: italic;
+    text-align: center;
+}
+.c {
+    font-style: underline;
+    font-family: impact;
+}
+.right{
+    text-align: right;
+}
+#myDiv{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 15px;
+    padding: 20px;
+    margin: auto;
+}
+.k {
+    width: 50%;
+    height: 50%
+}
+.p {
+    list-style-type: upper roman;
+}
+table { 
+    border-collapse: collapse;
+}
+td {
+    border: 5px solid black;
+}
+a:link, a:visited {
+    color: orange;
+    text-decoration: none;
+}
+a:hover-styles {
+    color: hotpink;
+    text-decoration: underline;
+    background-color: cyan;
+}
+html{
+    color:darkblue;
+    font-family: monospace;
+}
